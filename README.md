@@ -31,3 +31,5 @@ Translated analytical insights into strategic recommendations tailored to the st
 Delivered an actionable roadmap for short-term rental investment in Portland using review-driven demand metrics.
 Demonstrated how ETL pipelines and integrated data systems can inform market entry decisions and maximize ROI.
 Provided stakeholder-ready insights connecting neighborhood traits to customer behavior and listing profitability.
+
+#ETL #PowerQuery #SQL #DataCleaning #DataWrangling #MarketAnalysis #ExcelModeling #BusinessIntelligence #RealEstateAnalytics #LocationStrategy #StakeholderEngagement #DynamicPricing #ShortTermRentals #DataIntegration #RevenueForecasting
