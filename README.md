@@ -37,4 +37,5 @@ Provided stakeholder-ready insights connecting neighborhood traits to customer b
 
 #ETL #PowerQuery #SQL #DataCleaning #DataWrangling #MarketAnalysis #ExcelModeling #BusinessIntelligence #RealEstateAnalytics #LocationStrategy #StakeholderEngagement #DynamicPricing #ShortTermRentals #DataIntegration #RevenueForecasting
 
+**Note**
 This repository contains the analysis of pharmacy store performance. The dataset for this analysis is too large to be included directly in the repository. You can download the data from the following Google Drive link: [Download Data] https://drive.google.com/drive/folders/1_daTofkseNHzCI8-achc4Ut95O3-tttQ?usp=sharing
