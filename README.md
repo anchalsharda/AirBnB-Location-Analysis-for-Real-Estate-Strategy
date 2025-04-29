@@ -35,7 +35,12 @@ Delivered an actionable roadmap for short-term rental investment in Portland usi
 Demonstrated how ETL pipelines and integrated data systems can inform market entry decisions and maximize ROI.
 Provided stakeholder-ready insights connecting neighborhood traits to customer behavior and listing profitability.
 
-**💻 Tools Used:** *Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization. *Power Query: For efficient data extraction, transformation, and loading (ETL). *Pivot Tables: To summarize, explore, and analyze large datasets interactively. *What-If Analysis: Including Data Tables and Scenario Manager to model hypothetical business scenarios. *Conditional Formatting & Dynamic Dashboards: For enhanced visual insights. *VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: For robust data manipulation and accuracy checks.
+**💻 Tools Used:** 
+*Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization. 
+*Power Query: For efficient data extraction, transformation, and loading (ETL). 
+*Pivot Tables: To summarize, explore, and analyze large datasets interactively. 
+*What-If Analysis: Including Data Tables and Scenario Manager to model hypothetical business scenarios. 
+*Conditional Formatting & Dynamic Dashboards: For enhanced visual insights. *VLOOKUP, INDEX-MATCH, IFERROR, and Nested Functions: For robust data manipulation and accuracy checks.
 
 #ETL #PowerQuery #SQL #DataCleaning #DataWrangling #MarketAnalysis #ExcelModeling #BusinessIntelligence #RealEstateAnalytics #LocationStrategy #StakeholderEngagement #DynamicPricing #ShortTermRentals #DataIntegration #RevenueForecasting
 
