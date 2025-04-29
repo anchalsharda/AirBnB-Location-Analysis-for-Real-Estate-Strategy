@@ -13,7 +13,7 @@ Extracted and transformed raw data from Airbnb Listings & Reviews (December 2023
 Joined and linked datasets using unique listing IDs and foreign key relationships to align temporal review data with listing attributes.
 Integrated and cross-referenced external data (e.g., Zillow, Redfin, Portland Neighborhood Associations) to enhance analytical depth and enrich data warehouse tables.
 
-**Handled missing values, duplicates, and data anomalies, applying standard data cleaning procedures.**
+Handled missing values, duplicates, and data anomalies, applying standard data cleaning procedures.
 
 **Data Modeling & Analysis:**
 Engineered a model to correlate review counts to customer demand, creating proxies for revenue potential in the absence of transaction data.
@@ -36,3 +36,5 @@ Demonstrated how ETL pipelines and integrated data systems can inform market ent
 Provided stakeholder-ready insights connecting neighborhood traits to customer behavior and listing profitability.
 
 #ETL #PowerQuery #SQL #DataCleaning #DataWrangling #MarketAnalysis #ExcelModeling #BusinessIntelligence #RealEstateAnalytics #LocationStrategy #StakeholderEngagement #DynamicPricing #ShortTermRentals #DataIntegration #RevenueForecasting
+
+This repository contains the analysis of pharmacy store performance. The dataset for this analysis is too large to be included directly in the repository. You can download the data from the following Google Drive link: [Download Data] https://drive.google.com/drive/folders/1_daTofkseNHzCI8-achc4Ut95O3-tttQ?usp=share_link
