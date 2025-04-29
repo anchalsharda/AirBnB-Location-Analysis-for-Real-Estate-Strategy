@@ -36,6 +36,7 @@ Demonstrated how ETL pipelines and integrated data systems can inform market ent
 Provided stakeholder-ready insights connecting neighborhood traits to customer behavior and listing profitability.
 
 **💻 Tools Used:** 
+
 *Advanced Microsoft Excel: Utilized for data analysis, transformation, and visualization. 
 *Power Query: For efficient data extraction, transformation, and loading (ETL). 
 *Pivot Tables: To summarize, explore, and analyze large datasets interactively. 
