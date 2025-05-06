@@ -1,6 +1,6 @@
 
-📍 Portland Short-Term Rental Market Analysis | Real Estate Expansion Feasibility Study
-Role: Data Analyst | Tools Used: Excel, Power Query, SQL, ETL, Data Wrangling, External Data Integration
+Portland Short-Term Rental Market Analysis | Real Estate Expansion Feasibility Study
+
 
 🔍 **Project Overview:**
 
