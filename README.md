@@ -1,6 +1,4 @@
 
-Portland Short-Term Rental Market Analysis | Real Estate Expansion Feasibility Study
-
 
 🔍 **Project Overview:**
 
